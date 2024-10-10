@@ -1,5 +1,7 @@
 # Juggernog after round 7
 
+Updated script from https://github.com/Sparker-99/Plutonium-T6-Plugins/tree/master/Juggernog%20at%20round%208%20for%20Plutonium%20Bo2%20Zombies
+
 
 Install
 https://plutonium.pw/docs/modding/loading-mods/#t6
