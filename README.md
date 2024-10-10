@@ -10,7 +10,7 @@ Im using this in my own servers
 [![NXRTH #2 Diner | Survival | Bank | No perk limit](https://b.getserve.rs/v1/EPmqcbL1K8)](https://getserve.rs/s/EPmqcbL1K8)
 
 External Links:
-https://nxrth.xyz/
 
+https://nxrth.xyz/
 
 https://discord.me/nxrth
