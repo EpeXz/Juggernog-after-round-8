@@ -11,4 +11,6 @@ Im using this in my own servers
 
 External Links:
 https://nxrth.xyz/
+
+
 https://discord.me/nxrth
